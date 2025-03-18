@@ -56,7 +56,7 @@ This project contains 4 sample test cases that demonstrate how to use Selenium t
    ```sh
    mvn test -Dtest=<test_case>
    ```  
-   E.g. `mvn test -Dtest=TC004_Logout`
+   E.g. `clean verify -Dcucumber.filter.tags=@saucedemo_TC5`
 
 #### 🚦 Running a test plan
 1. Navigate to the project directory using command line.
