@@ -1,0 +1,8 @@
+starter\UilityFunctions\WaitSeconds.class
+starter\navigation\NavigateTo.class
+starter\UilityFunctions\CSVDataReader.class
+starter\stepdefinitions\ParameterDefinitions.class
+starter\saucedemo\saucedemoActions.class
+starter\CucumberTestSuite.class
+starter\saucedemo\saucedemoPath.class
+starter\stepdefinitions\StepDefinitions.class

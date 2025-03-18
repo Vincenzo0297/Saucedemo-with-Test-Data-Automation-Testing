@@ -1,0 +1,35 @@
+Name, Value
+TC-1-UserName, standard_user
+TC-1-Password, secret_sauce
+TC-1-Options, Price (low to high)
+TC-1-FirstName, Jason
+TC-1-LastName, Cena
+TC-1-ZipCode, 54321
+,,,
+TC-2-UserName, problem_user
+TC-2-Password, secret_sauce
+TC-2-Options, Price (low to high)
+TC-2-FirstName, Jason
+TC-2-LastName, Cena
+TC-2-ZipCode, 54321
+,,,
+TC-3-UserName, performance_glitch_user
+TC-3-Password, secret_sauce
+TC-3-Options, Price (low to high)
+TC-3-FirstName, Jason
+TC-3-LastName, Cena
+TC-3-ZipCode, 54321
+,,,
+TC-4-UserName, error_user
+TC-4-Password, secret_sauce
+TC-4-Options, Price (low to high)
+TC-4-FirstName, Jason
+TC-4-LastName, Cena
+TC-4-ZipCode, 54321
+,,,
+TC-5-UserName, visual_user
+TC-5-Password, secret_sauce
+TC-5-Options, Price (low to high)
+TC-5-FirstName, Jason
+TC-5-LastName, Cena
+TC-5-ZipCode, 54321
